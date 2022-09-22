@@ -1,5 +1,7 @@
 condicao = str("sim")
 
+#Trying to don't spent much time on this!!
+
 while condicao == "sim":
     
     try:
